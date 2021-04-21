@@ -1,0 +1,1 @@
+This repo contains programs of java-8 functional programming concepts.
