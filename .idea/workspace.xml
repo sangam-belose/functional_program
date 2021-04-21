@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dbf3c188-bfad-44d8-ac34-12d6fb64510a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qpB21y4LpizAoKqwoKSddrvKIy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/practice/linkedin/functional/programming" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Sangam\Personal\workspace\java\functional_program\src\com\practice\linkedin\functional\programming" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CompositionExample">
+    <configuration name="CollectorsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.linkedin.functional.programming.CollectorsExample" />
+      <module name="functional_program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.linkedin.functional.programming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CombineListFunctionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.linkedin.functional.programming.CombineListFunctionExample" />
+      <module name="functional_program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.linkedin.functional.programming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompositionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.linkedin.functional.programming.CompositionExample" />
+      <module name="functional_program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.linkedin.functional.programming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FilterExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.linkedin.functional.programming.FilterExample" />
+      <module name="functional_program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.linkedin.functional.programming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReduceExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.linkedin.functional.programming.ReduceExample" />
+      <module name="functional_program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.linkedin.functional.programming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CompositionExample" />
+        <item itemvalue="Application.CombineListFunctionExample" />
+        <item itemvalue="Application.CollectorsExample" />
+        <item itemvalue="Application.ReduceExample" />
+        <item itemvalue="Application.FilterExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dbf3c188-bfad-44d8-ac34-12d6fb64510a" name="Default Changelist" comment="" />
+      <created>1617766440992</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617766440992</updated>
+      <workItem from="1617766444054" duration="1046000" />
+      <workItem from="1617775976426" duration="1247000" />
+      <workItem from="1617879347114" duration="53000" />
+      <workItem from="1618019091669" duration="3509000" />
+      <workItem from="1618108439811" duration="3714000" />
+      <workItem from="1618206187942" duration="611000" />
+      <workItem from="1618622709820" duration="3982000" />
+      <workItem from="1618651807652" duration="6850000" />
+      <workItem from="1618826931645" duration="542000" />
+      <workItem from="1618902846577" duration="1239000" />
+      <workItem from="1618924511918" duration="2193000" />
+      <workItem from="1618928771601" duration="2599000" />
+      <workItem from="1618989229927" duration="1948000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser" timestamp="1618929450521">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1618929450521" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1618924996349">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1618924996349" />
+    <state width="1323" height="227" key="GridCell.Tab.0.bottom" timestamp="1618931379134">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1618931379134" />
+    <state width="1323" height="227" key="GridCell.Tab.0.center" timestamp="1618931379134">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1618931379134" />
+    <state width="1323" height="227" key="GridCell.Tab.0.left" timestamp="1618931379134">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1618931379134" />
+    <state width="1323" height="227" key="GridCell.Tab.0.right" timestamp="1618931379134">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1618931379134" />
+    <state width="1323" height="145" key="GridCell.Tab.1.bottom" timestamp="1618661748596">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="145" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1618661748596" />
+    <state width="1323" height="145" key="GridCell.Tab.1.center" timestamp="1618661748596">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="145" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1618661748596" />
+    <state width="1323" height="145" key="GridCell.Tab.1.left" timestamp="1618661748596">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="145" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1618661748596" />
+    <state width="1323" height="145" key="GridCell.Tab.1.right" timestamp="1618661748596">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="145" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1618661748596" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1618020727514">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1618020727514" />
+    <state x="363" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1618990526921">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1618990526921" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1618661065455">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1618661065455" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/linkedin/functional/programming/LambdaExample.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/linkedin/functional/programming/FilterExample.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
